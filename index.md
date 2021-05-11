@@ -2,6 +2,18 @@
 
 ### Este es un titular de 3er nivel. Es para recordarle que pueden comer aceite de oliva todo el día sin parar.
 
+Esta es una bullet list:
+- Item.
+- Productito.
+- Cosita random.
+- Minicosita.
+
+#### Este es un titular de 4to nivel para una lista ordenada:
+1. Una persona.
+2. Otra persona.
+3. Otre persone.
+4. Protohumanos random.
+
 You can use the [editor on GitHub](https://github.com/DanielaRiveroM/OliveOil/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
